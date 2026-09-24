@@ -2,7 +2,6 @@
 
 Projeto simples de front-end para demonstrar testes unitários com Jest.
 
-**Professor:** Hudson Neves
 
 ## Estrutura
 
