@@ -1,0 +1,11 @@
+{
+  "name": "formulario-cadastro",
+  "version": "1.0.0",
+  "description": "Atividade de teste unitário com Jest",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.0.0"
+  }
+}
